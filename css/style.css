@@ -2,6 +2,10 @@
   margin-bottom: 40px;
 }
 
+#img{
+  background: yellow;
+}
+
 #row1, #row2{
   margin-bottom: 40px;
 }
