@@ -1,0 +1,37 @@
+#carouselExampleIndicators{
+  margin-bottom: 40px;
+}
+
+#row1, #row2{
+  margin-bottom: 40px;
+}
+
+#content1{
+  margin-bottom: 20px;
+}
+
+/* #poster{
+  background-image: url(img/sale.jpeg);
+  height: 200px;
+} */
+#list a{
+  color: white;
+  margin-top: 170px;
+}
+
+.card{
+  text-align: center;
+}
+
+h5{
+  color: orange;
+}
+
+h3{
+  text-align: center;
+  color: orange;
+}
+
+h3::before{
+  border-bottom: 10px;
+}
